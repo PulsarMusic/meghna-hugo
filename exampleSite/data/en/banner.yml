@@ -1,8 +1,8 @@
 ---
 banner:
   enable: true
-  bg_image_webp: images/spacemannoback.webp
-  bg_image: images/spacemannoback.png
+  bg_image_webp: images/spacemanback.webp
+  bg_image: images/spacemanback.png
   icon: ''
   title: American Made Quality and Durability.
   content: ''
