@@ -4,8 +4,8 @@ portfolio:
   title: Our Works
   portfolio_item:
   - name: Guitar
-    image: images/GuitaaOnBed.jpg
-    image_webp: images/GuitaaOnBed.webp
+    image: images/GuitarOnBed.jpg
+    image_webp: images/GuitarOnBed.webp
     categories: []
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: https://themefisher.com
