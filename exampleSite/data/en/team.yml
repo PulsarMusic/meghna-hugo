@@ -57,3 +57,11 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
+  - name: Ryan Berger
+    image_webp: ''
+    image: ''
+    designation: Web Specialist
+    content: ''
+    social:
+    - link: "#"
+      icon: ti-facebook
