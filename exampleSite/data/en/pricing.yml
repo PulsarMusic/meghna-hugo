@@ -3,7 +3,7 @@ pricing:
   enable: true
   title: Instruments
   pricing_table:
-  - name: All Aluminum Guitar
+  - name: Guitar
     price: "$3,000"
     unit: ''
     services:
