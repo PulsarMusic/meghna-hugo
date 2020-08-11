@@ -3,10 +3,10 @@ team:
   enable: true
   title: Our Team
   team_member:
-  - name: London Simmons
-    image_webp: images/20190713_113655.webp
-    image: images/20190713_113655.jpg
-    designation: c
+  - name: Logan Simmons
+    image_webp: images/LoganProfile.webp
+    image: images/LoganProfile.jpg
+    designation: Team Leader
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
       ullam, culpa odio.
     social:
