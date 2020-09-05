@@ -1,8 +1,8 @@
 ---
 title: Welcome To our Website!
 date: 2020-08-11T07:00:00+00:00
-image_webp: "/images/favicon.png"
-image: "/images/favicon.png"
+image_webp: "/images/spacemannoback.webp"
+image: "/images/spacemannoback.png"
 author: Logan Simmons
 description: Logo
 
