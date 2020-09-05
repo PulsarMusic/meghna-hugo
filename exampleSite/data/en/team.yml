@@ -4,8 +4,8 @@ team:
   title: Our Team
   team_member:
   - name: Logan Simmons
-    image_webp: images/LoganProfile.webp
-    image: images/LoganProfile.jpg
+    image_webp: images/Loganportrait.webp
+    image: images/Loganportrait.jpg
     designation: Team Leader
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
       ullam, culpa odio.
