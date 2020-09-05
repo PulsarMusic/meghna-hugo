@@ -24,9 +24,9 @@ portfolio:
     categories: []
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: https://themefisher.com
-  - name: Guitar & Bass
-    image: images/Guitar-Bass.jpg
-    image_webp: images/GuitarBass.webp
+  - name: Bass
+    image: images/FetchBass.jpg
+    image_webp: images/FetchBass.webp
     categories:
     - development
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
