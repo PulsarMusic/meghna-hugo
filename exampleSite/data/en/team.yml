@@ -6,7 +6,7 @@ team:
   - name: Logan Simmons
     image_webp: images/Loganportrait.webp
     image: images/Loganportrait.jpg
-    designation: Team Leader
+    designation: ''
     content: ''
     social:
     - icon: ti-linkedin
@@ -14,7 +14,7 @@ team:
   - name: Christian Fetch
     image_webp: images/christianportrait.webp
     image: images/christianportrait.jpg
-    designation: Lead Engineer
+    designation: ''
     content: ''
     social:
     - icon: ti-linkedin
