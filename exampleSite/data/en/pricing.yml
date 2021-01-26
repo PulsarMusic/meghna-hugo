@@ -16,13 +16,14 @@ pricing:
     button:
       label: Buy Now
       link: "#"
-  - name: Aluminum Jazz Bass
+  - name: Aluminum Funk Bass
     price: "$3,500"
     unit: USD
     services:
     - 7 lb total weight
     - Split Coil Neck Pickup
     - Humbucking Bridge Pickup
+    - Wood fret-board with pearloid inlays
     button:
       label: Buy Now
       link: "#"
