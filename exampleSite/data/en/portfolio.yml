@@ -16,10 +16,9 @@ portfolio:
     categories: []
     content: Crafting aluminum bodies allows for more creative freedom with the design.
     link: "#"
-  - name: Bass
+  - name: Funk Bass
     image: images/FetchBass.jpg
     image_webp: images/FetchBass.webp
-    categories:
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    categories: []
+    content: Still in development is our 4 string funk bass!
     link: ''
