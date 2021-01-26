@@ -9,12 +9,13 @@ portfolio:
     categories: []
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
-  - name: Shopping Bag
+  - name: Sleek and Unique Design
     image: images/guitar2.jpg
     image_webp: images/guitar2.webp
     categories:
     - design
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    content: Building the guitar bodies out of aluminum allows for more creative freedom
+      with the design.
     link: "#"
   - name: Bass
     image: images/FetchBass.jpg
