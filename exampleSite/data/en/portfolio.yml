@@ -15,8 +15,7 @@ portfolio:
     image_webp: images/guitar2.webp
     categories:
     - design
-    content: Building the guitar bodies out of aluminum allows for more creative freedom
-      with the design.
+    content: Crafting aluminum bodies allows for more creative freedom with the design.
     link: "#"
   - name: Bass
     image: images/FetchBass.jpg
