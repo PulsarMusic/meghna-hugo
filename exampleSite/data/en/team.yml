@@ -15,8 +15,7 @@ team:
     image_webp: images/christianportrait.webp
     image: images/christianportrait.jpg
     designation: Lead Engineer
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus
-      ullam, culpa odio.
+    content: ''
     social:
     - icon: ti-linkedin
       link: "#https://www.linkedin.com/in/christian-f-20247911b/"
