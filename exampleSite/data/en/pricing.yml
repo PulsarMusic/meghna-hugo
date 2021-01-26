@@ -19,7 +19,10 @@ pricing:
   - name: Aluminum Jazz Bass
     price: "$3,500"
     unit: USD
-    services: []
+    services:
+    - 7 lb total weight
+    - Split Coil Neck Pickup
+    - Humbucking Bridge Pickup
     button:
       label: Buy Now
       link: "#"
