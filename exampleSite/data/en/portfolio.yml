@@ -7,7 +7,8 @@ portfolio:
     image: images/guitar1.jpg
     image_webp: images/guitar1.webp
     categories: []
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    content: Anodizing adds exciting color and an extra layer of protection to our
+      'unbreakable' guitars.
     link: "#"
   - name: Sleek and Unique Design
     image: images/guitar2.jpg
