@@ -3,12 +3,10 @@ portfolio:
   enable: true
   title: Our Works
   portfolio_item:
-  - name: Bottol Label
+  - name: High Durability Anodizing finish
     image: images/guitar1.jpg
     image_webp: images/guitar1.webp
-    categories:
-    - photography
-    - development
+    categories: []
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
   - name: Shopping Bag
@@ -18,12 +16,6 @@ portfolio:
     - design
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: "#"
-  - name: Guitar
-    image: images/GuitarOnBed.jpg
-    image_webp: images/GuitarOnBed.webp
-    categories: []
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: https://themefisher.com
   - name: Bass
     image: images/FetchBass.jpg
     image_webp: images/FetchBass.webp
@@ -31,41 +23,3 @@ portfolio:
     - development
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
     link: ''
-  - name: Laser Etching
-    image: images/LaserEtch.jpg
-    image_webp: images/LaserEtch.webp
-    categories:
-    - design
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: "#"
-  - name: Tag Design
-    image: images/portfolio/portfolio-6.jpg
-    image_webp: images/portfolio/portfolio-6.webp
-    categories:
-    - photography
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: "#"
-  - name: Business Card
-    image: images/portfolio/portfolio-7.jpg
-    image_webp: images/portfolio/portfolio-7.webp
-    categories:
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: "#"
-  - name: Stationary Design
-    image: images/portfolio/portfolio-8.jpg
-    image_webp: images/portfolio/portfolio-8.webp
-    categories:
-    - design
-    - development
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: "#"
-  - name: Tag Design
-    image: images/portfolio/portfolio-2.jpg
-    image_webp: images/portfolio/portfolio-2.webp
-    categories:
-    - design
-    - photography
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: "#"
