@@ -13,8 +13,7 @@ portfolio:
   - name: Sleek and Unique Design
     image: images/guitar2.jpg
     image_webp: images/guitar2.webp
-    categories:
-    - design
+    categories: []
     content: Crafting aluminum bodies allows for more creative freedom with the design.
     link: "#"
   - name: Bass
