@@ -5,7 +5,7 @@ pricing:
   pricing_table:
   - name: Aluminum Humbucking Guitar
     price: "$3,000"
-    unit: ''
+    unit: USD
     services:
     - '5 1/2 lb total weight '
     - Humbucking Neck and Bridge Pickups
